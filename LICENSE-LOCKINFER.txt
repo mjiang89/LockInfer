@@ -1,0 +1,29 @@
+	Inferring Strange Behavior from Connectivity Pattern in Social Networks
+    Authors: Meng Jiang, Peng Cui, Alex Beutel, Christos Faloutsos and Shiqiang Yang
+    Date: 2014
+
+This work is supported by
+1) National Natural Science Foundation of China Project No. 61370022, No. 61210008 and No. 61303075;
+2) International Science and Technology Cooperation Program of China, No. 2013DFG12870;
+3) National Program on Key Basic Research Project, No. 2011CB302206
+that are conducted by
+Tsinghua University (Department of Computer Science and Technology)
+– Tencent Technology (Shenzhen) Co., Ltd. Joint Laboratory
+for Internet Innovation Technology.
+
+
+CITING THE WORK ----------------------------------
+
+If your work uses or refers to LockInfer, please cite the papers using the following bibtex entries:
+
+@incollection{jiang2014inferring,
+  title={Inferring Strange Behavior from Connectivity Pattern in Social Networks},
+  author={Jiang, Meng and Cui, Peng and Beutel, Alex and Faloutsos, Christos and Yang, Shiqiang},
+  booktitle={Advances in Knowledge Discovery and Data Mining},
+  pages={126--138},
+  year={2014},
+  publisher={Springer}
+}
+
+If you use LockInfer for research or commercial purposes, please let us know
+your institution(company) and whether it's ok to mention it among the users of LockInfer.
